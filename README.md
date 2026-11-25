@@ -2,7 +2,7 @@
 
 Navbat books clinic appointments and live queue places in Uzbekistan. Patients find a clinic, take a place in the queue or book a time, and see their turn move in real time. The same service runs as a Telegram Mini App and a web app.
 
-**[Download the latest APK](https://github.com/MakhmudSD/navbat-android/releases/latest)** · [Demo video (77 s)](https://youtu.be/NfMuXIbuGT0) · [Web app](https://navbat-kappa.vercel.app) · [Telegram bot](https://t.me/toktok_navbat_bot)
+**[Download the APK](https://github.com/MakhmudSD/navbat-android/releases/latest/download/navbat.apk)** ([all releases](https://github.com/MakhmudSD/navbat-android/releases)) · [Demo video (77 s)](https://youtu.be/NfMuXIbuGT0) · [Web app](https://navbat-kappa.vercel.app) · [Telegram bot](https://t.me/toktok_navbat_bot)
 
 ## Install
 
